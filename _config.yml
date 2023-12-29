@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanpeng Chen"
-description              : "Geospatial Specialist"
+description              : "A GIS and spatial data science major undergraduate with skills in spatial analysis, geo-programming, data management and visualization, and urban spatial studies."
 repository               : "yuanpnChn.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanpeng Chen"
   avatar           : "images/portrait.png"
-  bio              : "A GIS and spatial data science major student with skills in spatial analysis, geo-programming, data management & visualization, and urban spatial studies."
+  bio              : "Geospatial Student"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  Spatialnode      : "https://spatialnode.net/yuanpengchen"
   email            : "yuanpeng.chen_clv@outlook.com"
   Spatialnode      : "https://spatialnode.net/yuanpengchen"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
