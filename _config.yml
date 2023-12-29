@@ -22,13 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuanpeng Chen"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/portrait.png"
   bio              : "A GIS and spatial data science major student with skills in spatial analysis, geo-programming, data management & visualization, and urban spatial studies."
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "yuanpeng.chen_clv@outlook.com"
+  Spatialnode      : "https://spatialnode.net/yuanpengchen"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +38,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/yuanpnChn"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "www.linkedin.com/in/yuanpeng-chen-5b1b6a2a6"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
