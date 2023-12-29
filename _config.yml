@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuanpeng Chen"
-description              : "A Chinese Student"
+description              : "Geospatial Specialist"
 repository               : "yuanpnChn.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanpeng Chen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "A SYSU student"
+  bio              : "A GIS and spatial data science major student with skills in spatial analysis, geo-programming, data management & visualization, and urban spatial studies."
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
